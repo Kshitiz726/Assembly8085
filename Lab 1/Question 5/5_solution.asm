@@ -1,0 +1,16 @@
+MVI A, 11H
+MVI B, 22H
+MVI C, 33H
+MVI D, 44H
+MVI E, 55H
+LXI H, 9000H
+MOV M, A
+INX H ;increment the adress in H by 1
+MOV M, B
+INX H
+MOV M, C
+INX H 
+MOV M, D
+INX H
+MOV M, E
+HLT
