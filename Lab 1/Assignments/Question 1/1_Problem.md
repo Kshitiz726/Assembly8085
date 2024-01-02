@@ -1,2 +1,1 @@
-# Load 1A, 2B, 3C, 4D, 5E, 6F and 7A to the accumulator, register B, C, D, E, H and L respectively. 
-# Examine the content of each register before and after the execution of each instruction. (Use MVI instructions) 
+# Load 1A, 2B, 3C, 4D, 5E, 6F and 7A to the accumulator, register B, C, D, E, H and L respectively. Examine the content of each register before and after the execution of each instruction. (Use MVI instructions) 

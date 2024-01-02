@@ -1,0 +1,1 @@
+# The data in the memory is as shown in the table along side. Write a program to increase the 16-bit data at memory location 80A2 and decrease the 16-bit data at memory location 80A4. 

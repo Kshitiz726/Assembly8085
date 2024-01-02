@@ -1,0 +1,1 @@
+# Write a program to check the bit D5 of the content of memory at 9025. Display 1 at port A if the bit is 1 else displays nothing. Use the rotating instructions after masking. Use the rotating instruction which uses less no of instructions

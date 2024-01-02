@@ -1,0 +1,1 @@
+# Suppose the memory content is as shown in the table along side. Write a program to Add the 16-bit data at memory location 8084 with the 16 bit data at 8086 and store the result at 8088. Use DAD instruction in adding 16 bit data. Verify the result with the 16-bit addition using ADC instruction.
