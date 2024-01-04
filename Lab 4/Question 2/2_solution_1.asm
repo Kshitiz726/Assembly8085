@@ -1,7 +1,12 @@
-LDA 9030H
-ANI 08H
-JZ D4_IS_ZERO
-
-D4_IS_ZERO: MOV D, A
-; this shows , if 4th bit is 0, content of D register gets changed, else not
+MVI A, 02H
+XRA A
+STC
+PUSH PSW
+POP B
+MOV A,C
+XRI 10H
+ANI 0FBH
+MOV C, A
+PUSH B
+POP PSW
 HLT
